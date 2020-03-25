@@ -1,3 +1,5 @@
+# random_color.py --> inside _utils folder
+
 from random import randint, random
 
 def generate_random_hex_color():

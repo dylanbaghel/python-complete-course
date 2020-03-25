@@ -1,3 +1,9 @@
+# Exercise
+
+"""
+Exercise --> ASCII ART PRINTER
+"""
+
 from pyfiglet import figlet_format
 from termcolor import colored
 
